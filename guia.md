@@ -10,8 +10,3 @@
 
 #Access the editor at http://localhost:5678
 
-Resources
-1
-35
-5
-5
